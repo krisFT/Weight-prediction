@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Python_files/weight_prediction/mlruns/729875296273143650/4301026d1d464163a65b33182735c9af/artifacts
+end_time: 1753814121856
+entry_point_name: ''
+experiment_id: '729875296273143650'
+lifecycle_stage: active
+run_id: 4301026d1d464163a65b33182735c9af
+run_name: weight_prediction_20250729_143449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753814090108
+status: 3
+tags: []
+user_id: User
