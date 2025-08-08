@@ -111,9 +111,9 @@ def create_non_linear_data(n_samples=500, random_seed=42):
     
     # Generate target with non-linear relationships
     weight = (height * 0.4 + age * 0.6 + 
-              np.sin(height/10) * 5 +  # 非線性項
-              np.cos(age/5) * 3 +      # 非線性項
-              (height * age) / 1000 +  # 交互項
+              np.sin(height/10) * 5 +  # non-linear term
+              np.cos(age/5) * 3 +      # non-linear term
+              (height * age) / 1000 +  # interaction term
               np.random.normal(0, 5, n_samples))
     
     # Create DataFrame
