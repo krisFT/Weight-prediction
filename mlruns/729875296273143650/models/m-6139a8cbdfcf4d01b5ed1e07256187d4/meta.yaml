@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Python_files/weight_prediction/mlruns/729875296273143650/models/m-6139a8cbdfcf4d01b5ed1e07256187d4/artifacts
+creation_timestamp: 1754018024995
+experiment_id: '729875296273143650'
+last_updated_timestamp: 1754018030145
+model_id: m-6139a8cbdfcf4d01b5ed1e07256187d4
+model_type: null
+name: 1d cnn_model
+source_run_id: 4493787975f44ed08186da3febe3162e
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Python_files/weight_prediction/mlruns/729875296273143650/models/m-c992de94f0a041529172c919721d0e85/artifacts
+creation_timestamp: 1754020615644
+experiment_id: '729875296273143650'
+last_updated_timestamp: 1754020620780
+model_id: m-c992de94f0a041529172c919721d0e85
+model_type: null
+name: complex dense_model
+source_run_id: 3324208cffc64ade8f3f88bcce31b90e
+status: 2
+status_message: null

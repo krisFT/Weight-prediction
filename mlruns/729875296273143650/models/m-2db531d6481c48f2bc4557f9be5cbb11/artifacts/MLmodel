@@ -1,0 +1,22 @@
+artifact_path: file:///D:/Python_files/weight_prediction/mlruns/729875296273143650/models/m-2db531d6481c48f2bc4557f9be5cbb11/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.9.21
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.10.1
+    model_type: keras
+    save_format: tf
+mlflow_version: 3.1.4
+model_id: m-2db531d6481c48f2bc4557f9be5cbb11
+model_size_bytes: 215616
+model_uuid: m-2db531d6481c48f2bc4557f9be5cbb11
+prompts: null
+run_id: 4493787975f44ed08186da3febe3162e
+utc_time_created: '2025-08-01 03:13:15.232318'
